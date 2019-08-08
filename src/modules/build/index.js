@@ -1,6 +1,8 @@
-import React from 'react'
+import React from 'react';
+import { connect } from 'react-redux';
 
 class Build extends React.Component {
+
 
     render() {
         return (
@@ -9,4 +11,8 @@ class Build extends React.Component {
     }
 }
 
-export default Build;
+const mapStateToProps = state => ({
+
+});
+
+export default connect(mapStateToProps)(Build);
