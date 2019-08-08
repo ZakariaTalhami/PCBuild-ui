@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  color: #ddd;
+  background-color: #222; 
+}
+
+a {
+  color: #ccc;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #bbb;
+  text-decoration: none;
+}
