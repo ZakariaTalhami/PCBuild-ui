@@ -1,0 +1,25 @@
+.rightIconDiv {
+    
+    display: inline-block;
+    border-right: 1px solid;
+    padding-right: 10px;
+}
+
+.leftIconDiv {
+    display: inline-block;
+    border-left: 1px solid;
+    padding-left: 10px;
+}
+
+.topIconDiv {
+    display: inline-block;
+    border-top: 1px solid;
+    padding-top: 10px;
+}
+
+.bottomIconDiv {
+    /* width: 100%; */
+    display: inline-block;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}

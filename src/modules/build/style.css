@@ -1,0 +1,13 @@
+.builder-page .container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 1rem;
+}
+
+.builder-sidebar {
+    min-width: 0;
+}
+
+.builder-part-list {
+    min-width: 0;
+}

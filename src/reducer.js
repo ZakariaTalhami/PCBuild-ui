@@ -1,5 +1,5 @@
-import { combineReducers } from "../../../../AppData/Local/Microsoft/TypeScript/3.5/node_modules/redux";
-
+import { combineReducers } from "redux";
+import build from "./modules/build/reducer"
 export default combineReducers({
-
+    build
 });

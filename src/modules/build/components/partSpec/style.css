@@ -1,0 +1,19 @@
+.spec-listing {
+    padding: 10px;
+    min-width: 300px;
+}
+
+.spec-listing dt{
+    line-height: 1.2rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.spec-listing dd{
+    /* line-height: 1.5rem; */
+    font-size: 0.8rem;
+    /* text-align: center; */
+    margin-left: 20%;
+}
+
